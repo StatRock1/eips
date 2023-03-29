@@ -110,11 +110,11 @@
     {% if not no-right-matter %}
     <div id="nav-right" data-selected="{{ nav-right-select }}">
      <!-- Images from the "web page images" subdirectory -->
-      <div data-name="TAMcollective2018">
-        <p>A Peek at EIPS Pictures in the 2018 "Collective" Exhibit <br>
-            at the Art Museum of Eastern Idaho </p>
-        <p><img src="/web page images/TAMcollective2018.jpg" width="400" height="253" alt="TAMS Collective 2018"/></p>
-        <p>&copy; Michael Bernard, 2018</p>
+      <div data-name="TAMcollective2022">
+        <p>A Peek at EIPS Pictures in the 2022 "Collective" Exhibit <br>
+            at The Art Museum of Eastern Idaho </p>
+        <p><img src="/web page images/TAMcollective2022.jpg" width="400" height="223" alt="TAMS Collective 2022"/></p>
+        <p>&copy; Angie Roach, 2022</p>
       </div>
       <div data-name="riverssm">
         <p>&quot;Iverness River,&quot; 2012 October Juried Show, Best of Show</p>
